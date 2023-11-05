@@ -23,4 +23,3 @@ I'm actively involved in:
 I'm always open to new collaborations and discussions related to AI, NLP, Computer Vision, or Data Science. Feel free to reach out to me via:
 
 - 📧 Email: Mo7amed3twan@gmail.com
--
