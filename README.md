@@ -6,7 +6,7 @@ I'm Mohamed Atwan, a student at Kafr Elshekh University majoring in Artificial I
 
 - 🎓 I'm currently pursuing a degree in Artificial Intelligence.
 - 💼 I work on various NLP and Computer Vision projects.
-- 🌐 You can find my work and contributions on my [GitHub](https://github.com/MO7AMED3TWANe) profile.
+- 🌐 You can find my work and contributions on my [Website]([https://github.com/MO7AMED3TWAN](https://mo7amed3twan.github.io/ProtofolioWebsite/)) profile.
 
 ## What I Do
 
