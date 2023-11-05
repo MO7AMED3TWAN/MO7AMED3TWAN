@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyein!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
  -->
-![github header](https://user-images.githubusercontent.com/46434694/153376923-2b00e21f-da3c-445d-ac93-d08bbdad75b8.png)
+![github header]()
 
 
 <h3 align="center">👋 It's me! 👋</h3>
@@ -35,8 +35,8 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MO7AMED3TWAN&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="1"/></a>
 </p>
