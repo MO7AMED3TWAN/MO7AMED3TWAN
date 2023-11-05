@@ -5,7 +5,7 @@ I'm Mohamed Atwan, a student at Kafr Elshekh University majoring in Artificial I
 ## About Me
 
 - 🎓 I'm currently pursuing a degree in Artificial Intelligence.
-- 💼 I work on various NLP and Computer Vision projects, including [].
+- 💼 I work on various NLP and Computer Vision projects.
 - 🌐 You can find my work and contributions on my [GitHub](https://github.com/MO7AMED3TWANe) profile.
 
 ## What I Do
@@ -14,7 +14,7 @@ I'm actively involved in:
 
 - Developing NLP models, including [Recegnize words of  Quran System].
 
-- Creating Computer Vision solutions, such as [Alphapetic Character's Detection Via CNN].
+- Creating Computer Vision solutions, such as [Alphabetic Characters Detection Via CNN].
 
 - Exploring and analyzing data in the field of Data Science.
 
