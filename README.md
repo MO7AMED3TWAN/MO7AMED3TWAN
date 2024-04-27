@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Mohamed Atwan, a student at Kafr Elshekh University majoring in Artificial Intelligence. I'm passionate about developing Natural Language Processing (NLP) and Computer Vision models and working Also at the field of Data Science. 
+I am Mohamed Atwan, Student pursuing a degree in Artificial Intelligence at Kafr Elshekh University. My academic endeavors are driven by a fervent interest in advancing Natural Language Processing (NLP) systems. Moreover, I am deeply committed to honing my expertise in the realms of data analytics and data science, aiming to contribute meaningfully to these fields through rigorous study and practical application 
 
 ## About Me
 
