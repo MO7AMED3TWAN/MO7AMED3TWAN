@@ -1,69 +1,57 @@
-Got it! I’ll create a more visually engaging GitHub profile README using the styles from the profile you mentioned. Here's how it can look:
+# Hello, All! 🌟
 
----
+<img align="right" src="https://komarev.com/ghpvc/?username=MO7AMED3TWAN" alt="Profile Views" />
 
-# 🌟 Welcome to Mohamed Atwan's GitHub Profile! 👋
+I'm **Mohamed Atwan**, a dedicated Data Engineer, Data Analyst, and Machine Learning enthusiast. I transform data into actionable insights and innovative solutions. 🚀
 
-I'm **Mohamed Atwan**, a passionate Data Engineer, Data Analyst, Machine Learning (ML), and Deep Learning (DL) specialist. Dive into my profile to see how I turn data into actionable insights and innovative solutions. 🚀
+## About Me
+- 💼 **Data Engineer & Analyst** with extensive experience in Python, SQL, and Azure.
+- 💼 **Machine Learning & Deep Learning Specialist** with expertise in creating and optimizing models.
+- 🎓 **Studying AI** and constantly evolving my skills to stay ahead in the tech landscape.
+- 🌐 Explore my [Portfolio](https://github.com/MO7AMED3TWAN/Protofolio) to see my work.
+- 📄 Check out my [CV](https://github.com/MO7AMED3TWAN/MO7AMED3TWAN/Resume).
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Mohamed+Atwan+Profile+Banner)
+## Connect with Me
 
-## 📍 About Me
+<p align="left">
+  <a href="https://linkedin.com/in/mohamed-elsayed-7aaa81223" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 
-- **Location:** Cairo, Egypt 🌍
-- **Contact:** [Mo7amed3twan@gmail.com](mailto:Mo7amed3twan@gmail.com) 📧
-- **LinkedIn:** [mohamed-elsayed-7aaa81223](https://www.linkedin.com/in/mohamed-elsayed-7aaa81223) 💼
-- **Kaggle:** [mo7amed3twan](https://kaggle.com/mo7amed3twan) 🏆
-- **GitHub:** [MO7AMED3TWAN](https://github.com/MO7AMED3TWAN) 🚀
+  <a href="https://www.kaggle.com/mo7amed3twan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+</p>
 
-## 🔧 Skills & Expertise
+## Tech Stack
 
-### Data Engineering 🔍
+Here are some technologies I enjoy working with:
 
-![Data Engineering Badge](https://img.shields.io/badge/Data%20Engineering-%E2%9C%94%20Completed-brightgreen)
-- **Data Pipeline Development:** ETL/ELT processes 🔄
-- **Big Data Technologies:** Hadoop, Apache Spark 🔥
-- **Cloud Solutions:** Azure Data Lake, Azure Databricks ☁️
-- **SQL Proficiency:** T-SQL, DQL, DDL, DML 💾
-- **Python Libraries:** Pandas, NumPy, SciPy 🐍
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sql/sql-icon.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+</p>
 
-### Data Analysis & Business Intelligence 📊
+## Languages
 
-![Data Analysis Badge](https://img.shields.io/badge/Data%20Analysis-%E2%9C%94%20Completed-brightgreen)
-- **Visualization:** Power BI, Tableau 📈
-- **Data Cleaning & Wrangling:** Excel (Pivot Tables, Power Query), Python 🧹
-- **Statistical Analysis:** Trend analysis and data evaluation 📉
-- **SQL & Python Analysis:** Complex queries and analytics 🔍
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/>
+</p>
 
-### Machine Learning & Deep Learning 🤖
+## GitHub Status
 
-![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-%E2%9C%94%20Completed-brightgreen)
-- **Machine Learning:** Supervised and unsupervised learning 📚
-- **Deep Learning:** CNNs, RNNs, NLP with Transformers (BERT, GPT) 🧠
-- **Big Data Analytics:** Azure Synapse Analytics, Hadoop, Spark 🚀
-- **Python Libraries:** Pandas, NumPy, SciPy, PyTorch 🔬
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MO7AMED3TWAN" alt="GitHub Streak" />
+</p>
 
-### Additional Skills 🎨
-
-![Additional Skills Badge](https://img.shields.io/badge/Additional%20Skills-%E2%9C%94%20Completed-brightgreen)
-- **Version Control:** Git, GitHub 🛠️
-- **Containers:** Docker 🐳
-- **Problem-Solving:** Innovative solutions for complex data challenges 💡
-- **Continuous Learning:** Staying current with the latest technologies 📖
-
-## 📚 Publications & Contributions
-
-- Explore my contributions on [Kaggle](https://kaggle.com/mo7amed3twan) 🏆
-- Check out my Works 📑 on [Protofolio](https://github.com/MO7AMED3TWAN/Protofolio)
-
-## 🚀 Get in Touch
-
-Feel free to reach out for collaboration, questions, or discussions. I'm always open to new opportunities and challenges! 🤝
-
-- **Email:** [Mo7amed3twan@gmail.com](mailto:Mo7amed3twan@gmail.com) 📧
-- **LinkedIn:** [mohamed-elsayed-7aaa81223](https://www.linkedin.com/in/mohamed-elsayed-7aaa81223) 💼
-- **Kaggle:** [mo7amed3twan](https://kaggle.com/mo7amed3twan) 🏆
-
-Thank you for visiting my profile! 🙌
-
-![Footer Banner](https://via.placeholder.com/1200x200?text=Thank+You+For+Visiting+My+Profile)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MO7AMED3TWAN&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MO7AMED3TWAN&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
