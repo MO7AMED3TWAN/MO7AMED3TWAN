@@ -15,7 +15,7 @@ I'm **Mohamed Atwan**, a dedicated Data Engineer, Data Analyst, and Machine Lear
 
 <p align="left">
   <a href="https://linkedin.com/in/mohamed-elsayed-7aaa81223" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
 
   <a href="https://www.kaggle.com/mo7amed3twan" target="_blank">
