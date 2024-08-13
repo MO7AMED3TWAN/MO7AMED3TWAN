@@ -9,7 +9,7 @@ I'm **Mohamed Atwan**, a dedicated Data Engineer, Data Analyst, and Machine Lear
 - 💼 **Machine Learning & Deep Learning Specialist** with expertise in creating and optimizing models.
 - 🎓 **Studying AI** and constantly evolving my skills to stay ahead in the tech landscape.
 - 🌐 Explore my [Portfolio](https://github.com/MO7AMED3TWAN/Protofolio) to see my work.
-- 📄 Check out my [CV](https://github.com/MO7AMED3TWAN/MO7AMED3TWAN/Resume).
+- 📄 Check out my [CV](https://github.com/MO7AMED3TWAN/MO7AMED3TWAN/tree/main/Resume).
 
 ## Connect with Me
 
