@@ -118,5 +118,4 @@ Let’s collaborate to drive innovative data solutions and advancements in techn
 <div align="center">
   <h4>🐍 Watch my contribution graph grow:</h4>
   <img src="https://raw.githubusercontent.com/Mo7amed3twan/Mo7amed3twan/output/snake.svg" alt="Snake animation" />
-
 </div>
