@@ -1,63 +1,122 @@
-# Hello, All! 🌟
-
+# 👋 Welcome to My GitHub Profile
 <img align="right" src="https://komarev.com/ghpvc/?username=MO7AMED3TWAN" alt="Profile Views" />
 
-𝗥𝗲𝘀𝘂𝗹𝘁𝘀-𝗱𝗿𝗶𝘃𝗲𝗻 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with 𝟮 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗡𝗟𝗣, and 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲, 𝘀𝗸𝗶𝗹𝗹𝗲𝗱 at 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗱𝗮𝘁𝗮 𝗶𝗻𝘁𝗼 𝗮𝗰𝘁𝗶𝗼𝗻𝗮𝗯𝗹𝗲 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀. Known for 𝗹𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 and 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲, I 𝗹𝗲𝗱 my team to 𝟱𝘁𝗵 place out of 𝟭𝟱𝟬+ 𝗶𝗻 𝘁𝗵𝗲 𝗠𝗧𝗖-𝗔𝗜𝗖𝟮 𝗔𝗜 𝗰𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝗼𝗻.
+### Mohamed Atwan  
+**Data Scientist | NLP Specialist and working with LLM**  
+Based in Egypt 🌍
 
-Currently, as 𝗛𝗲𝗮𝗱 𝗼𝗳 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 @ MLSA-KFS and 𝗛𝗲𝗮𝗱 𝗼𝗳 𝗡𝗟𝗣 @ IEEE-KSB, I leverage my background in 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 and 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 to drive impactful projects. I’m committed to 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗲𝗻𝗴𝗮𝗴𝗲𝗺𝗲𝗻𝘁 as an 𝗕𝗘𝗧𝗔 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿, actively sharing knowledge and fostering collaboration.
+---
 
-𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 to volunteer as a 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 𝗮𝘁 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 to empower communities through technology. 
+#### About Me
 
-𝗟𝗲𝘁’𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝘁𝗼 𝗱𝗿𝗶𝘃𝗲 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝗱𝗮𝘁𝗮 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗰𝗮𝗹 𝗮𝗱𝘃𝗮𝗻𝗰𝗲𝗺𝗲𝗻𝘁𝘀!
+I am a **results-driven Data Scientist** with **2 years of experience** in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Data Science**. I specialize in transforming data into actionable insights, and I'm passionate about utilizing data to drive impactful solutions.
 
-## About Me
-- 💼 **Data Engineer & Analyst** with extensive experience in Python, SQL, and Azure.
-- 💼 **Machine Learning & Deep Learning Specialist** with expertise in creating and optimizing models.
-- 🎓 **Studying AI** and constantly evolving my skills to stay ahead in the tech landscape.
-- 🌐 Explore my [Portfolio](https://github.com/MO7AMED3TWAN/Protofolio) to see my work.
-- 📄 Check out my [CV](https://github.com/MO7AMED3TWAN/MO7AMED3TWAN/tree/main/Resume).
+As a **technical leader**, I have a proven track record, including **leading my team to 5th place** out of **150+ teams** in the **MTC-AIC2 AI competition**.
 
-## Connect with Me
+Currently, I serve as **AI Instractor** at **Shabab Mobtakeron Academy** and **NLP Engineer Freelancer** at **Upwork, Kamsat and Linkedin**, where I leverage my expertise in **Data Science** and **NLP** to lead impactful projects.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-atwan-7aaa81223/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+I'm deeply committed to **community engagement** as a **Microsoft BETA Ambassador**, where I actively share knowledge and foster collaboration.
+
+I am aspiring to **volunteer as a Data Scientist at Microsoft** to help empower communities through technology and innovation.
+
+Let’s collaborate to drive innovative data solutions and advancements in technology! Feel free to reach out if you want to connect, discuss projects, or collaborate.
+
+
+---
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
+</div>
+
+---
+
+### 🛠 Tech Stack & Tools:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" alt="Keras" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="50" alt="Pytorch" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" alt="Scikit-Learn" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/250px-ChatGPT-Logo.svg.png" height="50" alt="ChatGPT" />
+
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="Hugging Face" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg/270px-Mistral_AI_logo_%282025%E2%80%93%29.svg.png" height="50" alt="Mistral AI" />
+
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/ollama.png" height="50" alt="Meta" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/85/Logo_of_Qwen.png" height="50" alt="QWEN" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/1920px-DeepSeek_logo.svg.png" height="50" alt="DEEPSEEK" />
+</div>
+
+
+---
+
+### 🔭 Current Projects:
+- 🌌 **Educational App for Kids**: Leveraging SQL databases to manage user data and activity logs for personalized learning experiences.
+- 📊 **Data-Driven Decision Systems**: Using SQL for data extraction, transformation, and visualization to support AI-based solutions.
+- 🗄 **Database Optimization Research**: Studying indexing and query optimization techniques for SQL-driven systems.
+
+---
+
+### 📈 My GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedtag7&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=sayedtag7&theme=tokyonight&hide_border=false" height="150" alt="Streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedtag7&layout=compact&theme=tokyonight&langs_count=10" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### 🌟 Featured Achievements:
+- 🏆 **Galactic Problem Solver** - NASA Space Apps Challenge 2024
+- 📜 **Data Science & Analytics** - Certified by HP
+- 🥇 **SQL Data Analytics Certification** - Recognized by DPEI  
+- 🌐 **Rally Society President** - Leadership at New Mansoura University
+- 🎓 **Graduation Project** - Digital Egypt Pioneers Initiative: AI-driven Production Quality Monitoring System
+
+---
+
+### 🌍 Connect With Me:
+<div align="center">
+  <a href="https://www.linkedin.com/in/sayedtageldin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" />
   </a>
-
-  <a href="https://www.kaggle.com/mo7amed3twan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  <a href="mailto:sayedtag777@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" alt="Gmail" />
   </a>
-</p>
+  <a href="https://www.facebook.com/tag.sayedtag" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" alt="Facebook" />
+  </a>
+  <a href="https://x.com/Sayed_tag7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/sayed_tag7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/qr/NSXLWHMCH3DAE1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" alt="WhatsApp" />
+  </a>
+</div>
 
-## Tech Stack
+---
 
-Here are some technologies I enjoy working with:
+<div align="center">
+  <h4>🐍 Watch my contribution graph grow:</h4>
+  <img src="https://raw.githubusercontent.com/Mo7amed3twan/Mo7amed3twan/output/snake.svg" alt="Snake animation" />
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sql/sql-icon.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
-</p>
-
-## Languages
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/>
-</p>
-
-## GitHub Status
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MO7AMED3TWAN" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MO7AMED3TWAN&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MO7AMED3TWAN&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+</div>
