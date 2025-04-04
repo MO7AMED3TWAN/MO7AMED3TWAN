@@ -21,7 +21,13 @@ I am aspiring to **volunteer as a Data Scientist at Microsoft** to help empower 
 
 Let’s collaborate to drive innovative data solutions and advancements in technology! Feel free to reach out if you want to connect, discuss projects, or collaborate.
 
+#### Don't Miss Get Know me More by:
 
+##### 🌐 Explore my [Portfolio Website](https://mo7amed3twan.com) for detailed overviews.
+
+##### 📁 Check out my [Projects Repository](https://github.com/MO7AMED3TWAN/Protofolio) for hands-on implementations.
+
+##### 📄 Check out my [Resume](https://github.com/MO7AMED3TWAN/MO7AMED3TWAN/tree/main/Resume).
 ---
 
 <div align="center">
@@ -39,8 +45,11 @@ Let’s collaborate to drive innovative data solutions and advancements in techn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" />
-  
+
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" />
 
@@ -66,13 +75,6 @@ Let’s collaborate to drive innovative data solutions and advancements in techn
 
 ---
 
-### 🔭 Current Projects:
-- 🌌 **Educational App for Kids**: Leveraging SQL databases to manage user data and activity logs for personalized learning experiences.
-- 📊 **Data-Driven Decision Systems**: Using SQL for data extraction, transformation, and visualization to support AI-based solutions.
-- 🗄 **Database Optimization Research**: Studying indexing and query optimization techniques for SQL-driven systems.
-
----
-
 ### 📈 My GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayedtag7&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub stats" />
@@ -93,24 +95,26 @@ Let’s collaborate to drive innovative data solutions and advancements in techn
 
 ### 🌍 Connect With Me:
 <div align="center">
-  <a href="https://www.linkedin.com/in/sayedtageldin" target="_blank">
+  <a href="https://www.linkedin.com/in/mo7amed3twan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" />
   </a>
-  <a href="mailto:sayedtag777@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/tag.sayedtag" target="_blank">
+  <a href="https://www.facebook.com/mo7amed3twan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" alt="Facebook" />
   </a>
-  <a href="https://x.com/Sayed_tag7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/sayed_tag7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/qr/NSXLWHMCH3DAE1" target="_blank">
+
+  <a href="https://wa.me/00201551320460" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" alt="WhatsApp" />
   </a>
+
+  <a href="https://www.kaggle.com/mo7amed3twan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="50" />
+  </a>
+
+  <a href="https://mo7amed3twan.com" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="50" alt="Portfolio" />
+  </a>
+
+
 </div>
 
 ---
