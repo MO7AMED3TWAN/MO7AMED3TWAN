@@ -9,17 +9,43 @@ Based in Egypt 🌍
 
 #### About Me
 
-I am a **results-driven Data Scientist** with **2 years of experience** in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Data Science**. I specialize in transforming data into actionable insights, and I'm passionate about utilizing data to drive impactful solutions.
+I am a **Results-driven Data Scientist** with **2 years of experience** in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Data Science**, skilled in **extracting insights and building data-driven solutions** with Focusing Now In The **AGENTIC AI & LLMS.**
 
-As a **technical leader**, I have a proven track record, including **leading my team to 5th place** out of **150+ teams** in the **MTC-AIC2 AI competition**.
+**Proven track record of Leading a Team to a top 5 in MTC-AIC2 AI Competition** by leveraging **Deep Learning** and **advanced modeling techniques in Speech Recognition Systems**. And Leading Other Team to **Top 8 in Huawei Spark Infinity North Africa 24 Competition** by leveraging **AI Techniques In Our Supply Chain Solution** That We Introduced it.
 
-Currently, I serve as **AI Instractor** at **Shabab Mobtakeron Academy** and **NLP Engineer Freelancer** at **Upwork, Kamsat and Linkedin**, where I leverage my expertise in **Data Science** and **NLP** to lead impactful projects.
+Actively engaged in **community knowledge-sharing** as a **BETA Microsoft Ambassador In Microsoft** & **Huawei Cloud Ambassador**, with a focus on fostering **collaboration** and **innovation** in **data science, AI and Cloud Computing Areas.**
 
-I'm deeply committed to **community engagement** as a **Microsoft BETA Ambassador**, where I actively share knowledge and foster collaboration.
+**Currently**, I serve as **AI Instractor** at **Shabab Mobtakeron Academy** and **NLP Engineer Freelancer** at **Upwork, Kamsat and Linkedin**, where I leverage my expertise in **Data Science** and **NLP** to lead impactful projects.
 
-I am aspiring to **volunteer as a Data Scientist at Microsoft** to help empower communities through technology and innovation.
+I am aspiring to **volunteer as a Data Scientist at Microsoft or Huawei** to help empower communities through technology and innovation.
 
-Let’s collaborate to drive innovative data solutions and advancements in technology! Feel free to reach out if you want to connect, discuss projects, or collaborate.
+**Let’s collaborate to drive innovative data solutions and advancements in technology ...**
+
+#### Feel free to reach out if you want to connect, discuss projects, or collaborate
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mo7amed3twan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/mo7amed3twan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" alt="Facebook" />
+  </a>
+
+  <a href="https://wa.me/00201551320460" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" alt="WhatsApp" />
+  </a>
+
+  <a href="mailto:mo7amed3twan@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" alt="Gmail" />
+  </a>
+
+  <a href="https://mo7amed3twan.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="50" alt="Portfolio" />
+  </a>
+
+</div>
+
+---
 
 #### Don't Miss Get Know me More by:
 
@@ -34,7 +60,6 @@ Let’s collaborate to drive innovative data solutions and advancements in techn
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
 </div>
 
----
 
 ### 🛠 Tech Stack & Tools:
 <div align="center">
@@ -73,49 +98,11 @@ Let’s collaborate to drive innovative data solutions and advancements in techn
 </div>
 
 
----
-
 ### 📈 My GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayedtag7&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=sayedtag7&theme=tokyonight&hide_border=false" height="150" alt="Streak stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedtag7&layout=compact&theme=tokyonight&langs_count=10" height="150" alt="Top Languages" />
-</div>
-
----
-
-### 🌟 Featured Achievements:
-- 🏆 **Galactic Problem Solver** - NASA Space Apps Challenge 2024
-- 📜 **Data Science & Analytics** - Certified by HP
-- 🥇 **SQL Data Analytics Certification** - Recognized by DPEI  
-- 🌐 **Rally Society President** - Leadership at New Mansoura University
-- 🎓 **Graduation Project** - Digital Egypt Pioneers Initiative: AI-driven Production Quality Monitoring System
-
----
-
-### 🌍 Connect With Me:
-<div align="center">
-  <a href="https://www.linkedin.com/in/mo7amed3twan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/mo7amed3twan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" alt="Facebook" />
-  </a>
-
-  <a href="https://wa.me/00201551320460" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" alt="WhatsApp" />
-  </a>
-
-  <a href="https://www.kaggle.com/mo7amed3twan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="50" />
-  </a>
-
-  <a href="https://mo7amed3twan.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="50" alt="Portfolio" />
-  </a>
-
-
-
 </div>
 
 ---
