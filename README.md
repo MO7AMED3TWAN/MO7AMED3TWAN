@@ -2,7 +2,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=MO7AMED3TWAN" alt="Profile Views" />
 
 ### Mohamed Atwan  
-**“Change The World Through Data” || AI Engineer @ Huawei || Freelancer Data Scientist & NLP-LLM Specialist || Freelancing Coach @ Elharefa || HCDG New Cairo Owner*  
+**“Change The World Through Data” || AI Engineer @ Huawei || Freelancer Data Scientist & NLP-LLM Specialist || Freelancing Coach @ Elharefa || HCDG New Cairo Owner**  
 
 Based in New cairo, Egypt 🌍
 
@@ -81,21 +81,11 @@ Actively engaged in 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗸𝗻𝗼𝘄𝗹�
 
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="Hugging Face" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg/270px-Mistral_AI_logo_%282025%E2%80%93%29.svg.png" height="50" alt="Mistral AI" />
-
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/ollama.png" height="50" alt="Meta" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/85/Logo_of_Qwen.png" height="50" alt="QWEN" />
+  <img src="[https://upload.wikimedia.org/wikipedia/en/8/85/Logo_of_Qwen.png](https://upload.wikimedia.org/wikipedia/commons/6/69/Qwen_logo.svg)" height="50" alt="QWEN" />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/1920px-DeepSeek_logo.svg.png" height="50" alt="DEEPSEEK" />
-</div>
-
-
-### 📈 My GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mo7amed3twan&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=mo7amed3twan&theme=tokyonight&hide_border=false" height="150" alt="Streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amed3twan&layout=compact&theme=tokyonight&langs_count=10" height="150" alt="Top Languages" />
 </div>
 
 ---
