@@ -1,14 +1,7 @@
 # 👋 السلام عليكم ورحمة الله وبركاتة
 <img align="right" src="https://komarev.com/ghpvc/?username=MO7AMED3TWAN" alt="Profile Views" />
 
-### Mohamed Atwan  
-**“Change The World Through Data” || AI Engineer @ Huawei || Freelancer Data Scientist & NLP-LLM Specialist || Freelancing Coach @ Elharefa || HCDG New Cairo Owner**  
-
-Based in New cairo, Egypt 🌍
-
----
-
-#### About Me
+### Mohamed Atwan - AI Engineer @ Huawei Egypt
 
 𝗥𝗲𝘀𝘂𝗹𝘁𝘀-𝗱𝗿𝗶𝘃𝗲𝗻 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 with 𝟮 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴, and 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲, skilled in 𝗲𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗻𝗴 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗮𝗻𝗱 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 with Focusing Now In 𝗧𝗵𝗲 𝗔𝗚𝗘𝗡𝗧𝗜𝗖 𝗔𝗜 & 𝗟𝗟𝗠𝗦. 
 
