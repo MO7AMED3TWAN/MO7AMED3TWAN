@@ -83,7 +83,7 @@ Actively engaged in 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗸𝗻𝗼𝘄𝗹�
 
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/ollama.png" height="50" alt="Meta" />
 
-  <img src="[https://upload.wikimedia.org/wikipedia/en/8/85/Logo_of_Qwen.png](https://upload.wikimedia.org/wikipedia/commons/6/69/Qwen_logo.svg)" height="50" alt="QWEN" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Qwen_logo.svg" height="50" alt="QWEN" />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/1920px-DeepSeek_logo.svg.png" height="50" alt="DEEPSEEK" />
 </div>
