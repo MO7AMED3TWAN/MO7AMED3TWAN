@@ -7,7 +7,7 @@
 
 Proven track record of leading a team to a **top 5 in the MTC-AIC2 AI Competition** by leveraging Deep Learning and advanced modeling techniques in Speech Recognition Systems. And leading another team to a **top 8 in the Huawei Spark Infinity North Africa 24 Competition** by leveraging AI techniques in our Supply Chain Solution that we introduced. 
 
-𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆, I serve as an 𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 @ 𝗛𝘂𝗮𝘄𝗲𝗶 & 𝗡𝗟𝗣 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗙𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲𝗿 𝗮𝘁 𝗨𝗽𝘄𝗼𝗿𝗸, 𝗞𝗮𝗺𝘀𝗮𝘁 𝗮𝗻𝗱 𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻, where I serve my leverage in 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗡𝗟𝗣 to lead impactful projects.
+𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆, I serve as an 𝗔𝗜 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁 𝗮𝘁 𝗛𝘂𝗮𝘄𝗲𝗶 𝗦𝗔 𝗧𝗲𝗮𝗺 & 𝗡𝗟𝗣 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗙𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲𝗿 𝗮𝘁 𝗨𝗽𝘄𝗼𝗿𝗸, 𝗞𝗮𝗺𝘀𝗮𝘁 𝗮𝗻𝗱 𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻, where I serve my leverage in 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗡𝗟𝗣 to lead impactful projects.
 
 𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿𝘄𝗮𝗿𝗱 𝘁𝗼 𝗯𝗲𝗶𝗻𝗴 𝗽𝗿𝗼𝗺𝗼𝘁𝗲𝗱 𝘁𝗼 𝗯𝗲𝗶𝗻𝗴 𝗮 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗧𝗲𝗮𝗺 𝗟𝗲𝗮𝗱𝗲𝗿 in the following years to help pass on my experience, actively participate, and lead my team to the greatest successes
 
